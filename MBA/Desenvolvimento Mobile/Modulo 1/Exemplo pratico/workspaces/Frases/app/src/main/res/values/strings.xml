@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Frases</string>
     <string name="erro_sem_frases">Ainda não existem frases cadastradas!!!</string>
+    <string name="hint_botao_tela_nova_frase">Abrir a tela para adicionar novas frases</string>
 </resources>
