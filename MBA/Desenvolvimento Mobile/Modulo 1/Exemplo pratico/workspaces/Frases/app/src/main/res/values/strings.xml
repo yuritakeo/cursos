@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Frases</string>
+    <string name="erro_sem_frases">Ainda não existem frases cadastradas!!!</string>
+</resources>
