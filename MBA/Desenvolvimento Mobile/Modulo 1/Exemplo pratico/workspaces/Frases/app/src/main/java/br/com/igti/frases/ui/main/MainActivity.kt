@@ -1,7 +1,8 @@
-package br.com.igti.frases
+package br.com.igti.frases.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import br.com.igti.frases.R
 import br.com.igti.frases.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

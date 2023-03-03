@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">Frases</string>
-    <string name="erro_sem_frases">Ainda não existem frases cadastradas!!!</string>
-    <string name="hint_botao_tela_nova_frase">Abrir a tela para adicionar novas frases</string>
+    <string name="dica_botao_add_frase">Botão para adicionar nova frase</string>
+    <string name="hint_autores">Autores</string>
+    <string name="hint_citacao">Citacao</string>
+    <string name="cancelar">cancelar</string>
+    <string name="salvar">salvar</string>
+    <string name="err_sem_autor">Por favor, infomr o nome do autor</string>
+    <string name="err_sem_frase">Favor informar a frase</string>
+    <string name="lista_limpa_sucesso">Lista limpa com sucesso</string>
+    <string name="msg_erro_sem_frase">Ainda não existe frases cadastradas</string>
 </resources>
